@@ -1,0 +1,4 @@
+.Food-Display h2 {
+  font-size: max(2vw, 24px);
+  font-weight: 600;
+}
